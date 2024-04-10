@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Nicole Paes, estudante de programção e tecnologia!
 
 - 🔭 Atualmente estou exercendo a posição de QA Tester
-- 🌱 Estudando (HTML, CSS, Javascript, React, banco de dados, Salesforce e metodologia ágil (SCRUM))
+- 🌱 Estudando (HTML, CSS, Javascript, React, banco de dados, Salesforce e metodologia ágil (SCRUM)), Bootstrap, Selenium)
 - 😄 Pronouns: ela/dela
 
 <div>
